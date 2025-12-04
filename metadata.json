@@ -1,0 +1,5 @@
+{
+  "name": "Exam Conflict Analyzer",
+  "description": "A React application to analyze exam conflict matrices from Excel files, allowing for single-subject and multi-subject conflict detection.",
+  "requestFramePermissions": []
+}
